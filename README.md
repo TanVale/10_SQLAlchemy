@@ -1,6 +1,6 @@
 # 10_SQLAlchemy
 In this challenge I have -
-- Used Python and SQLAlchemy to do a basic climate analysis and data exploration of theclimate database.
+- Used Python and SQLAlchemy to do a basic climate analysis and data exploration of the climate database.
 - Used the SQLAlchemy create_engine() function to connect to SQLite database.
 - Used the SQLAlchemy automap_base() function to reflect tables into classes, and then save references to the classes named station and measurement.
 - Link Python to the database by creating a SQLAlchemy session.
